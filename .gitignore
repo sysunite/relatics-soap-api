@@ -1,0 +1,5 @@
+**/target
+.idea
+*.iml
+src/test/resources/commits
+.DS_Store
